@@ -2,10 +2,11 @@
 #inlcude screenshot2code license
 
 
-The files for thee compiler and the dataset are licensed 
+The modified files for the compiler and the dataset are licensed 
 under Tony Beltramelli's Apache License 2.0: https://github.com/tonybeltramelli/pix2code/blob/master/LICENSE
+
 
 The files with a '.ipnyb' extension used for training and testing are a modified version of Screenshot2Code's bootstrap implementation. 
 They are licensed under Emil Wallner's MIT License: https://github.com/emilwallner/Screenshot-to-code/blob/master/LICENSE
 
-Details on modifications and changes made to the above licensed code are provided in the README file. 
+Details on modifications and changes made to the above are provided in the README file. 
