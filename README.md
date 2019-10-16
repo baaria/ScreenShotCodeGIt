@@ -21,6 +21,7 @@ The original LSTM architecture and code was from [screenshot2code's](https://git
 
 ### Additional Projects to Check Out
 Harvard's [im2markup](https://github.com/harvardnlp/im2markup): This would be an interesting dataset to train the model with.
+
 [Machine Learning-Based Prototyping of GUI for Mobile Apps](https://arxiv.org/pdf/1802.02312.pdf)
 
 
