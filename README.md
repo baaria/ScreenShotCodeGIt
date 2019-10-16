@@ -12,6 +12,8 @@ This project uses the [pix2code](https://github.com/tonybeltramelli/pix2code/tre
 
 I trained using 2 different models, one which is the LSTM encoder decoder architecture used by Emil Wallner's [screenshot2code](https://github.com/emilwallner/Screenshot-to-code). This was very slow on a single GPU and consisted of nearly 140 million parameters. The other is a GRU encoder decoder architecture with additional max pooling layers, which dramatically decreases the amount of parameters by almost 70%. The network converged much faster, around 50 epochs, and still performed equivalently to the LSTM architecture. Both achieved a bleu score of about 50% and outputed similar code.
 
+##### Trained Models
+The trained model and weights files to load and test are on [Google Drive](https://drive.google.com/drive/folders/1bwLkES8OiFiB2awAzudKBmXfsoD0sWWw?usp=sharing) to download. They exceed Github's file requirements.
 
 ### Credits
 ##### Tony Baltramelli, Pix2Code
