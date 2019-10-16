@@ -19,7 +19,7 @@ The trained model and weights files to load and test are on [Google Drive](https
 ##### Tony Baltramelli, Pix2Code
 The dataset was provided by Tony Baltramelli of [pix2code](https://github.com/tonybeltramelli/pix2code/tree/master/model). Along with the dataset is the DSL he created for easy tokens and so I implemented a version of the compiler class he wrote as well, with minor changes to fix the parsing. 
 ##### Emil Wallner, screenshot2Code
-The original LSTM architecture and code was from [screenshot2code's](https://github.com/emilwallner/Screenshot-to-code) bootstrap implementation of the neural network. I tweaked the code and network architecture as I experimented to improve efficiency and gather metrics. 
+The original LSTM architecture and code was from [screenshot2code's](https://github.com/emilwallner/Screenshot-to-code) bootstrap implementation of the neural network. I modified the code and network architecture as I experimented to improve efficiency and gather metrics. 
 
 ### Additional Projects to Check Out
 Harvard's [im2markup](https://github.com/harvardnlp/im2markup): This would be an interesting dataset to train the model with.
